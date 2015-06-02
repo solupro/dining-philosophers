@@ -1,1 +1,1 @@
-Rust test
+Rust example
