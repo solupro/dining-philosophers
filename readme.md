@@ -1,2 +1,3 @@
 Rust example  
-use Dev branch
+use Dev branch  
+Creating a new branch is quick & simple.
